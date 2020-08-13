@@ -1,4 +1,4 @@
-# y
+# vue脚手架模板
 
 > my first Vue-cli
 
